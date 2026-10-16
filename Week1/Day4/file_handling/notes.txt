@@ -1,0 +1,4 @@
+My Day 4 Python practice
+Learning file handling.
+Adding a new line to the file.
+Adding another line to the file.
