@@ -60,11 +60,11 @@ By completing these exercises, I learned how to:
 ## Folder Structure
 
 ```text
-day-16-tuning-model-comparison/
+Day2/
 │
-├── overfitting_underfitting.py
-├── column_transformer.py
-├── grid_search.py
-├── randomized_search.py
-├── model_comparison.py
+├── overfitting_underfitting.ipynb
+├── column_transformer.ipynb
+├── grid_search.ipynb
+├── randomized_search.ipynb
+├── model_comparison.ipynb
 └── README.md
